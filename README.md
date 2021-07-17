@@ -1,6 +1,6 @@
 ## :pushpin: Current Projects
 
-I am learning in RSSchool on JavaScript/Front-end
+I am studying JavaScript/Front-end in RSSchool
 
 ## :telephone_receiver: My contacts
 
