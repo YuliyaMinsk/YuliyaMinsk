@@ -1,6 +1,6 @@
 ## :pushpin: Current project
 
-Working on nodejs tasks
+Working on nodejs tasks: https://github.com/rolling-scopes-school/tasks/tree/master/node
 
 ## :telephone_receiver: My contacts
 
