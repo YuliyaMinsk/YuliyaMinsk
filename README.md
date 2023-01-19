@@ -7,8 +7,8 @@
 
 ## :pushpin: Current project
 
-Working on TeamTraker project in UR team.
-Also I'm learning Jest and React Testing Library (RTL) testing.
+- Working on TeamTraker project in UR team
+- Also I'm learning Jest and React Testing Library (RTL) testing
 
 ## :telephone_receiver: My contacts
 
