@@ -7,8 +7,8 @@
 
 ## :pushpin: Current project
 
-Working on nodejs tasks: https://github.com/rolling-scopes-school/tasks/tree/master/node<br>
-And creating small shop on react (with class components): https://github.com/YuliyaMinsk/react-small-shop
+Working on TeamTraker project in UR team.
+Also I'm learning Jest and React Testing Library (RTL) testing.
 
 ## :telephone_receiver: My contacts
 
