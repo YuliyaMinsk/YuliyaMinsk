@@ -2,7 +2,7 @@
 ## :heart: Welcome
 
 - Hi, I'm a front-end developer. I am currently **looking for a job**
-- My stack is JavaScript, TypeScript, React, HTML, CSS/SCSS, Git. Now I am practicing in NodeJS
+- My stack is JavaScript, TypeScript, React, HTML, CSS/SCSS, Git
 - LN profile with more details: https://www.linkedin.com/in/yuliyaniaverova/
 
 ## :pushpin: Current project
