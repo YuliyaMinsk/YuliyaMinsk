@@ -2,7 +2,7 @@
 ## :heart: Welcome
 
 - Hi, I'm a front-end developer. 
-- My stack is JavaScript, TypeScript, React, HTML, CSS/SCSS, Git
+- My stack is JavaScript, TypeScript, React, Redux toolkit, RTK Query, React Hook Form, HTML, CSS/SCSS
 - LN profile with more details: https://www.linkedin.com/in/yuliyaniaverova/
 
 ## :pushpin: Current project
