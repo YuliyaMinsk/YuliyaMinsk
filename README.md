@@ -13,5 +13,5 @@
 ## :telephone_receiver: My contacts
 
 - Discord: YuliyaMinsk#5450
-- Telegram: https://t.me/YuliyaRollini
+- Telegram: https://t.me/YuliyaAnts
 - Email: yniaverava@gmail.com
