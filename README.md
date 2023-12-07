@@ -7,7 +7,7 @@
 
 ## :pushpin: Current project
 
-- Working on Logistics project in TechnoLogistics Ltd
+- Working on split-bill-easy project 
 - Also I'm learning Jest and React Testing Library (RTL) testing and RTK Query
 
 ## :telephone_receiver: My contacts
