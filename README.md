@@ -3,7 +3,6 @@
 
 - Hi, I'm a front-end developer. 
 - My stack is JavaScript, TypeScript, React, Redux toolkit, RTK Query, React Hook Form, HTML, CSS/SCSS
-- LN profile with more details: [https://www.linkedin.com/in/yniaverova/](https://www.linkedin.com/in/yniaverova/)
 
 ## :pushpin: Current project
 
